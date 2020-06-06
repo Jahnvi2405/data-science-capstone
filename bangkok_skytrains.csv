@@ -1,0 +1,110 @@
+Station Code,English Station Name,Thai Station Name,Line(s),First Opened,Has Transfer To,Plus Code,Latitude,Longitude
+N5,Ari,อารีย์,BTS,5 December 1999,,7P52QGHV+VR,13.7796944,100.544625
+E4,Asok,อโศก,BTS,5 December 1999,MRT : Sukhumvit,7P52PHP6+M8,13.7367125,100.5608218
+A3,Ban Thap Chang,บ้านทับช้าง,ARL,23 August 2010,,7P52PMMQ+6F,13.7330995,100.688657
+E10,Bang Chak,บางจาก,BTS,12 August 2011,,7P52MJW4+P4,13.6967714,100.6053226
+BL37,Bang Khae,บางแค,MRT,21 September 2019,,7P52PC65+8Q,13.710825,100.4094956
+BL04,Bang Khun Non,บางขุนนนท์,MRT,23 December 2019,MRT (planned) SRT : Charansanitwong (planned),7P52PGQ8+4V,13.7378472,100.5171723
+PP10,Bang Krasor,บางกระสอ,MRT,12 August 2016,,Not Available,13.7601366,100.5659859
+E13,Bang Na,บางนา,BTS,12 August 2011,,7P52MJ93+6V,13.6681228,100.6046478
+BL08,Bang O,บางอ้อ,MRT,4 December 2019,,Not Available,13.7601366,100.5659859
+BL33,Bang Phai,บางไผ่,MRT,24 August 2019,,7P52PFC4+3R,13.7201422,100.4570328
+BL07,Bang Phlat,บางพลัด,MRT,4 December 2019,,Not Available,13.7601366,100.5659859
+PP04,Bang Phlu,บางพลู,MRT,12 August 2016,,7P52VCGM+7H,13.875723,100.43391
+BL09,Bang Pho,บางโพ,MRT,4 December 2019,,Not Available,Not Available,Not Available
+PP06,Bang Rak Noi Tha It,บางรักน้อย-ท่าอิฐ,MRT,12 August 2016,,7P52VFF4+W9,13.8748037,100.4559902
+PP05,Bang Rak Yai,บางรักใหญ่,MRT,12 August 2016,,Not Available,13.7318498,100.5311153
+PP15,Bang Son,บางซ่อน,MRT,12 August 2016,,7P52RGCM+32,13.8202164,100.5325217
+BL11,Bang Sue,บางซื่อ,MRT,3 July 2004,ARL SRT SRT (under construction),Not Available,13.7601366,100.5659859
+S12,Bang Wa BTS,บางหว้า,BTS,5 December 2013,MRT,7P52RH24+R2,13.802038,100.5550772
+BL34,Bang Wa MRT,บางหว้า,MRT,24 August 2019,BTS,7P52PFC4+3R,13.7201422,100.4570328
+BL05,Bang Yi Khan,บางยี่ขัน,MRT,23 December 2019,,7P52QFGP+X4,13.777386,100.485312
+E14,Bearing,แบริ่ง,BTS,12 August 2011,,7P52MJ62+FQ,13.6612072,100.6019066
+E17,Chang Erawan,ช้างเอราวัณ,BTS,6 December 2018,,7P52JHHQ+CJ,13.6285267,100.5891131
+BL02,Charan 13,จรัญฯ 13,MRT,23 December 2019,,7P52PFRC+38,13.740184,100.470797
+BL13,Chatuchak Park,สวนจตุจักร,MRT,3 July 2004,BTS : Mo Chit,7P52RH22+5G,13.8004427,100.5513715
+E1,Chit Lom,ชิดลม,BTS,5 December 1999,,7P52PGVX+6M,13.7430245,100.5491533
+S3,Chong Nonsi,ช่องนนทรี,BTS,5 December 1999,MRL (planned),7P52PGFH+FQ,13.7237337,100.5294692
+E7,Ekkamai,เอกมัย,BTS,5 December 1999,,7P52PH9P+R2,13.7195248,100.5851003
+BL03,Fai Chai,ไฟฉาย,MRT,23 December 2019,,7P52QF39+76,13.7531796,100.4680787
+N9,Ha Yaek Lat Phrao,ห้าแยกลาดพร้าว,BTS,9 August 2019,MRT : Phahon Yothin,7P52RH86+JR,13.816553,100.562007
+BL28,Hua Lamphong,หัวลำโพง,MRT,3 July 2004,SRT (planned),7P52PGQ8+4V,13.7378472,100.5171723
+A4,Hua Mak,หัวหมาก,ARL,23 August 2010,SRT MRL (under construction),7P52PJQW+63,13.7380459,100.6451813
+BL18,Huai Khwang,ห้วยขวาง,MRT,3 July 2004,,Not Available,13.7758639,100.5735263
+BL32,Itsaraphap,อิสรภาพ,MRT,29 July 2019,MRL (planned),7P52PFQP+84,13.7383191,100.4852881
+BL12,Kamphaeng Phet,กำแพงเพชร,MRT,3 July 2004,,7P52QGXX+62,13.7980646,100.5475927
+N13,Kasetsart University,มหาวิทยาลัยเกษตรศาสตร์,BTS,4 December 2019,,7P52RHX9+2R,13.8475687,100.5696191
+E23,Kheha,เคหะฯ,BTS,6 December 2018,,Not Available,13.7756379,100.543198
+PP01,Khlong Bang Phai,คลองบางไผ่,MRT,12 August 2016,,7P52VCR5+W8,13.8923533,100.4082562
+BL24,Khlong Toei,คลองเตย,MRT,3 July 2004,,Not Available,13.7322393,100.5597467
+S7,Krung Thon Buri,กรุงธนบุรี,BTS,15 May 2009,MRL (under construction),7P52PGC3+92,13.720901,100.502619
+BL38,Lak Song,หลักสอง,MRT,21 September 2019,,7P52P95P+H4,13.7089436,100.3852823
+A2,Lat Krabang,ลาดกระบัง,ARL,23 August 2010,,Not Available,13.7505781,100.7943199
+BL15,Lat Phrao,ลาดพร้าว,MRT,3 July 2004,MRL (under construction),Not Available,13.7601366,100.5659859
+BL25,Lumphini,ลุมพินี,MRT,3 July 2004,MRL (planned),Not Available,13.7264759,100.5440269
+A6,Makkasan,มักกะสัน,ARL,23 August 2010,MRT SRT (planned) MRL (planned),7P52QG4R+2V,13.7551169,100.5421513
+PP12,Ministry of Public Health,กระทรวงสาธารณสุข,MRT,12 August 2016,,7P52RGX7+8V,13.8483217,100.5146271
+N8,Mo Chit,หมอชิต,BTS,5 December 1999,MRT : Chatuchak Park,7P52RH23+XG,13.8024977,100.5538045
+E3,Nana,นานา,BTS,5 December 1999,,7P52PHR4+65,13.740523,100.555434
+W1,National Stadium,สนามกีฬาแห่งชาติ,BTS,5 December 1999,,7P52PGWH+HJ,13.746473,100.529073
+PP11,Nonthaburi Civic Center,ศูนย์ราชการนนทบุรี,MRT,12 August 2016,MRT (planned),7P52VG67+37,13.8601476,100.5132409
+E9,On Nut,อ่อนนุช,BTS,5 December 1999,,7P52PJ42+69,13.7055123,100.6008805
+E19,Pak Nam,ปากน้ำ,BTS,6 December 2018,,Not Available,13.595254,100.6071692
+BL14,Phahon Yothin,พหลโยธิน,MRT,3 July 2004,BTS (under construction),7P52RH76+M3,13.8142265,100.5601556
+N10,Phahon Yothin 24,พหลโยธิน 24,BTS,4 December 2019,,7P52RHF8+JH,13.82403,100.5664586
+BL36,Phasi Charoen,ภาษีเจริญ,MRT,21 September 2019,,7P52PFC4+3R,13.7201422,100.4570328
+A8,Phaya Thai ARL,พญาไท,ARL,23 August 2010,BTS : Phaya Thai SRT (planned),7P52QG4R+2V,13.7551169,100.5421513
+N2,Phaya Thai BTS,พญาไท,BTS,5 December 1999,ARL : Phaya Thai,Not Available,13.7756379,100.543198
+BL21,Phetchaburi,เพชรบุรี,MRT,3 July 2004,ARL : Makkasan SRT (planned) MRL (planned),7P52PHX7+C6,13.7485804,100.5631017
+BL35,Phetkasem 48,เพชรเกษม 48,MRT,21 September 2019,,7P52PC8W+9F,13.7159723,100.446173
+E2,Phloen Chit,เพลินจิต,BTS,5 December 1999,MRL (planned),7P52PGVX+6H,13.743044,100.548974
+S9,Pho Nimit,โพธิ์นิมิตร,BTS,12 January 2013,,7P52PF9P+PC,13.7192552,100.4860652
+E21,Phraek Sa,แพรกษา,BTS,6 December 2018,,7P52HJM5+P6,13.584324,100.608027
+E8,Phra Khanong,พระโขนง,BTS,5 December 1999,,7P52PH8R+3G,13.7151737,100.5912598
+PP08,Phra Nang Klao Bridge ,สะพานพระนั่งเกล้า,MRT,12 August 2016,,7P52VFCJ+44,13.870313,100.4803639
+BL20,Phra Ram 9,พระราม 9,MRT,3 July 2004,,7P52QH58+45,13.7577758,100.5653832
+E5,Phrom Phong,พร้อมพงษ์,BTS,5 December 1999,,7P52PHJ9+5V,13.730423,100.569738
+E16,Pu Chao,ปู่เจ้า,BTS,6 December 2018,,7P52JHPR+WR,13.6372778,100.5920068
+E11,Punnawithi,ปุณณวิถี,BTS,12 August 2011,,7P52MJQ5+HM,13.6889656,100.6091623
+BL23,Queen Sirikit National Convention Centre,ศูนย์การประชุมแห่งชาติสิริกิติ์,MRT,3 July 2004,,7P52PHF6+72,13.7231519,100.5601019
+A5,Ramkhamhaeng,รามคำแหง,ARL,23 August 2010,SRT (planned),7P52PJV2+53,13.7429925,100.6001474
+S1,Ratchadamri,ราชดำริ,BTS,5 December 1999,,7P52PGQQ+MQ,13.7391984,100.5394087
+BL16,Ratchadaphisek,รัชดาภิเษก,MRT,3 July 2004,,7P52QH89+4P,13.7653057,100.5692996
+A7,Ratchaprarop,ราชปรารภ,ARL,23 August 2010,SRT (planned),7P52QG4R+2V,13.7551169,100.5421513
+N1,Ratchathewi,ราชเทวี,BTS,5 December 1999,MRT (planned),Not Available,13.7626846,100.5370711
+N11,Ratchayothin,รัชโยธิน,BTS,4 December 2019,,Not Available,13.7756379,100.543198
+E18,Royal Thai Naval Academy,โรงเรียนนายเรือ,BTS,6 December 2018,,7P52JH5V+QM,13.6094882,100.5941597
+PP07,Sai Ma,ไทรม้า,MRT,12 August 2016,,Not Available,13.7601366,100.5659859
+S2,Sala Daeng,ศาลาแดง,BTS,5 December 1999,MRT : Si Lom,Not Available,13.7285268,100.5343257
+E22,Sai Luat,สายลวด,BTS,6 December 2018,,Not Available,13.7756379,100.543198
+E15,Samrong,สำโรง,BTS,3 April 2017,MRL (under construction),7P52JHWW+M8,13.6467329,100.5958528
+PP03,Sam Yaek Bang Yai,สามแยกบางใหญ่,MRT,12 August 2016,,7P52VCF9+VR,13.8747385,100.4195113
+BL27,Sam Yan,สามย่าน,MRT,3 July 2004,BTS (planned),7P52PGJH+WX,13.7323496,100.5299928
+BL30,Sam Yot,สามยอด,MRT,29 July 2019,MRT (planned),7P52PGW3+X2,13.7473752,100.5025052
+BL31,Sanam Chai,สนามไชย,MRT,29 July 2019,,7P52PFVV+GV,13.743859,100.49466
+N4,Sanam Pao,สนามเป้า,BTS,5 December 1999,,7P52QGCR+WR,13.7723637,100.542038
+N7,Saphan Khwai,สะพานควาย,BTS,5 December 1999,,7P52QGVX+GV,13.7937663,100.5497095
+S6,Saphan Taksin,สะพานตากสิน,BTS,5 December 1999,,7P52PG97+GJ,13.718799,100.514119
+N12,Sena Nikhom,เสนานิคม,BTS,4 December 2019,,7P52RHRG+FJ,13.8411329,100.576607
+BL26,Si Lom,สีลม,MRT,3 July 2004,BTS : Sala Daeng,7P52PGHP+PJ,13.7292504,100.5365446
+BL06,Sirindhorn,สิรินธร,MRT,4 December 2019,,Not Available,Not Available,Not Available
+CEN,Siam,สยาม,BTS,5 December 1999,BTS (planned),Not Available,13.7756379,100.543198
+E20,Srinagarindra,ศรีนครินทร์,BTS,6 December 2018,,7P52HJR5+RH,13.592079,100.608906
+BL22,Sukhumvit,สุขุมวิท,MRT,3 July 2004,BTS : Asok,Not Available,13.7601366,100.5659859
+S5,Surasak,สุรศักดิ์,BTS,5 December 1999,,7P52PG9C+MJ,13.7192251,100.5215217
+BL17,Sutthisan,สุทธิสาร,MRT,3 July 2004,,7P52QHQF+WM,13.7898476,100.5741786
+A1,Suvarnabhumi,สุวรรณภูมิ,ARL,23 August 2010,(planned),7P52MQQ2+X2,13.6899991,100.7501124
+PP02,Talad Bang Yai,ตลาดบางใหญ่,MRT,12 August 2016,,7P52VCJ5+FP,13.8811352,100.4092518
+S10,Talat Phlu,ตลาดพลู,BTS,14 February 2013,,7P52PF7G+MP,13.7142221,100.4768357
+PP16,Tao Poon,เตาปูน,MRT,6 August 2016,MRT:Tao Poon(BL10),7P52RG4J+F8,13.8061278,100.530761
+BL19,Thailand Cultural Centre,ศูนย์วัฒนธรรมแห่งประเทศไทย,MRT,3 July 2004,MRT (under construction),7P52QH89+4P,13.7653057,100.5692996
+BL01,Tha Phra,ท่าพระ,MRT,29 July 2019,,7P52PFHF+VM,13.729653,100.474163
+E6,Thong Lo,ทองหล่อ,BTS,5 December 1999,MRL (planned),7P52PHFH+MC,13.724243,100.578502
+E12,Udom Suk,อุดมสุข,BTS,12 August 2011,(planned),7P52MJJ5+2V,13.6800751,100.6096967
+N3,Victory Monument,อนุสาวรีย์ชัยสมรภูมิ,BTS,5 December 1999,SRT (planned),7P52QG7P+4R,13.762793,100.537085
+BL29,Wat Mangkon,วัดมังกร,MRT,29 July 2019,,7P52PGR6+R2,13.74204,100.510076
+PP14,Wong Sawang,วงศ์สว่าง,MRT,12 August 2016,,Not Available,13.7601366,100.5659859
+S8,Wongwian Yai,วงเวียนใหญ่,BTS,15 May 2009,,7P52PFCV+5X,13.7204276,100.4949773
+S11,Wutthakat,วุฒากาศ,BTS,5 December 2013,SRT (planned),7P52PF79+6H,13.7130484,100.4689001
+PP09,Yaek Nonthaburi 1,แยกนนทบุรี 1,MRT,12 August 2016,,7P52VF8V+9M,13.8659187,100.4942475
+PP13,Yaek Tiwanon,แยกติวานนท์,MRT,12 August 2016,,7P52RGQ8+Q2,13.8394892,100.5150365
